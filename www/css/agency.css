@@ -12,7 +12,7 @@ body {
   text-align: justify;
 }
 .text-primary {
-  color: rgba(145,0,0,0.9);
+  color: teal;
 }
 p {
   font-size: 14px;
@@ -29,7 +29,7 @@ a.active {
   outline: none;
 }
 a {
-  color: rgba(145,0,0,0.9);
+  color: teal;
 }
 a:hover,
 a:focus,
@@ -58,8 +58,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: rgba(145,0,0,0.9);
-  border-color: rgba(145,0,0,0.9);
+  background-color: teal;
+  border-color: teal;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -93,17 +93,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: rgba(145,0,0,0.9);
-  border-color: rgba(145,0,0,0.9);
+  background-color: teal;
+  border-color: teal;
 }
 .btn-primary .badge {
-  color: rgba(145,0,0,0.9);
+  color: teal;
   background-color: white;
 }
 .btn-xl {
   color: white;
-  background-color: rgba(145,0,0,0.9);
-  border-color: rgba(145,0,0,0.9);
+  background-color: teal;
+  border-color: teal;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -140,11 +140,11 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: rgba(145,0,0,0.9);
-  border-color: rgba(145,0,0,0.9);
+  background-color: teal;
+  border-color: teal;
 }
 .btn-xl .badge {
-  color: rgba(145,0,0,0.9);
+  color: teal;
   background-color: white;
 }
 .navbar-custom {
@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: rgba(145,0,0,0.9);
+  color: teal;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
@@ -165,8 +165,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: rgba(145,0,0,0.9);
-  border-color: rgba(145,0,0,0.9);
+  background-color: teal;
+  border-color: teal;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
@@ -174,25 +174,25 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: rgba(145,0,0,0.9);
+  background-color: teal;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: rgba(145,0,0,0.9);
+  color: teal;
 
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: rgba(145,0,0,0.9);
+  color: teal;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: rgba(145,0,0,0.9);
+  background-color: teal;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
@@ -426,7 +426,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: rgba(145,0,0,0.9);
+  background-color: teal;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -581,7 +581,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: rgba(145,0,0,0.9);
+  border-color: teal;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -650,7 +650,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: rgba(145,0,0,0.9);
+  background-color: teal;
 }
 .btn:focus,
 .btn:active,
@@ -734,11 +734,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: rgba(145,0,0,0.9);
+  background: teal;
 }
 ::selection {
   text-shadow: none;
-  background: rgba(145,0,0,0.9);
+  background: teal;
 }
 img::selection {
   background: transparent;
@@ -747,7 +747,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: rgba(145,0,0,0.9);
+  webkit-tap-highlight-color: teal;
 }
 
 .navbar-header img{
